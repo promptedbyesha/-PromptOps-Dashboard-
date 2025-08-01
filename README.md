@@ -7,10 +7,9 @@ It combines **Prompt Engineering techniques** with **Generative AI insights** to
 
 ## 🔍 Preview  
 
-![PromptOps Dashboard Comparison](<img width="1551" height="852" alt="image" src="https://github.com/user-attachments/assets/f9004f59-f773-4809-aded-b66eb7b12c68" />
-)  
-![PromptOps Dashboard Analytics](<img width="1477" height="862" alt="image" src="https://github.com/user-attachments/assets/849472fc-7ca3-4594-ae7e-8b9732e162ad" />
-)  
+<img width="1531" height="846" alt="image" src="https://github.com/user-attachments/assets/de926869-27ac-4e29-bed7-829a44201a11" />
+ <img width="1486" height="867" alt="image" src="https://github.com/user-attachments/assets/1842f971-e2e6-488c-82b3-a5c6a82b45c0" />
+
 
 ---
 
