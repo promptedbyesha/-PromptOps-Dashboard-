@@ -116,6 +116,9 @@ Please do not copy, modify, or use this work without prior written permission.
 
 ## 👤 Author
 
-Created by **[Esha Sharma]**  
-🔍 Prompt Engineer | ✍️ Content Strategist | 🤖 GenAI Creator  
+Created by *Esha Sharma* 👩🏻‍💻
+---
+
+📊 AI Product Manager 
+Linkedin: https://www.linkedin.com/in/workwitheesha/
  
